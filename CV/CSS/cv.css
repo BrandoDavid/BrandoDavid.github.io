@@ -1,0 +1,30 @@
+body {
+  background-color: skyblue;
+}
+div {
+  background-color: white;
+  border: 1px solid black;
+  padding: 12px;
+  width: 60%;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+}
+fieldset {
+  margin-bottom: 12px;
+}
+legend {
+  background-color: skyblue;
+  padding: 5px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+img {
+  width: 250px;
+  height: 180px;
+
+}
+span {
+  font-weight: bold;
+}
